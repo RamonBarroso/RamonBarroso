@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RamonBarroso
-- 👀 I’m interested in .NET and Python
+- 👀 I’m interested in .NET and Flutter
 - 🌱 I’m currently learning Back-end
 - 📫 How to reach me linkedin.com/in/ramon-barroso-62496417b/
 
